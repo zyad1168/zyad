@@ -1,0 +1,19 @@
+body {
+      background-color: #edebeb;
+
+  }
+
+  .v {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background-color: #fff;
+      border-radius: 18px;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+
+  }
+
+  img {
+      margin-top: 10px;
+      border-radius: 10px;
+  }
